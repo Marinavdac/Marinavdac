@@ -7,8 +7,8 @@
 
 <div>
 <a href="https://beacons.ai/Marinavdac">
-  <img height="200em" width="450em" align="center" src="https://github-readme-stats.vercel.app/api?username=Marinavdac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="200em" width="450em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinavdac&layout-compact&langs_count=168&theme=tokyonight"/>
+  <img height="200em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=Marinavdac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="200em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinavdac&layout-compact&langs_count=168&theme=tokyonight"/>
 </div>
 
 <div align="center">
