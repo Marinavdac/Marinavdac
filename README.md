@@ -1,14 +1,16 @@
 ## Olá! Me chamo Marina! 👋
 
-- 🌱 Atualmente estou aprendendo NodeJs, MySql e TypeScript e cursando Desenvolvimento Web FullStack na Trybe
+- 🌱 Atualmente cursando Desenvolvimento Web FullStack na Trybe
 - 💬 Pode me perguntar sobre qualquer assunto, adoro conversar sobre tecnologia, livros, séries e filmes!
 - 😄 Pronomes: ela/dela
 
 
 <div>
 <a href="https://beacons.ai/Marinavdac">
-  <img height="500em" width="500em" align="center" src="https://github-readme-stats.vercel.app/api?username=Marinavdac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="400em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinavdac&layout-compact&langs_count=168&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marinavdac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--  <img height="400em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinavdac&layout-compact&langs_count=168&theme=tokyonight"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinavdac&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 </div>
 
 <div align="center">
